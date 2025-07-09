@@ -24,7 +24,8 @@
 <h4>대처 방법</h4>
 <p>우선 경찰서, 금융회사 콜센터를 통하여 지급정지 요청을 한다.</p>
 <p>그 후 경찰에게 '사건사고 사실확인원'을 발급받아 은행에 이를 제출하여 피해금을 환급받는다</p>
-백
-<a href="https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=1592&ccfNo=2&cciNo=3&cnpClsNo=1">(출처 1_생활법령정보 홈페이지)</a>
+
+<a href="https://www.easylaw.go.kr/CSP/CnpClsMainBtr.laf?popMenu=ov&csmSeq=1592&ccfNo=2&cciNo=3&cnpClsNo=1">(자료 출처: 생활법령정보 홈페이지)</a>
+<p>#출처에 나오지 않는 자료는 기본적으로 알고 있는 지식을 사용</p>
 </body>
 </html>
